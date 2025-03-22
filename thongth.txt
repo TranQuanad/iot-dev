@@ -1,1 +1,1 @@
-Just because it compiles doesn’t mean it works.If you like debugging, you’ll love JavaScript.Try, catch, cry.idovoa.ra
+Readability counts.Just because it compiles doesn’t mean it works.If you like debugging, you’ll love JavaScript.Try, catch, cry.idovoa.ra
