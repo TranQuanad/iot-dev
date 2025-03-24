@@ -1,1 +1,1 @@
-Code like you mean it.Readability counts.Just because it compiles doesn’t mean it works.If you like debugging, you’ll love JavaScript.Try, catch, cry.idovoa.ra
+Bugs are not errors; they are unexpected features.Code like you mean it.Readability counts.Just because it compiles doesn’t mean it works.If you like debugging, you’ll love JavaScript.Try, catch, cry.idovoa.ra
